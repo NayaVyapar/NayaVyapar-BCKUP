@@ -1,7 +1,7 @@
 import React from 'react'
-import Title from '../Components/Title'
+import Title from '../Components/Title.jsx'
 import { assets } from '../assets/assets'
-import NewsletterBox from '../Components/NewsletterBox'
+import NewsletterBox from '../Components/NewsletterBox.jsx'
 
 const About = () => {
   return (
